@@ -23,3 +23,5 @@ for the function crypt modes are:  en for encrypt  or  de for decrypt
 
 
 main .py is more an example of how it works , i'm gona create a more finished version of it but it is still usable
+
+i'm planig to make a panik mode or something like that witch just make run some random data process with programm to limit the chances of data breach
